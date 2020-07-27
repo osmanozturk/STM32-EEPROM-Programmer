@@ -1,0 +1,15 @@
+
+**/Startup
+**/Drivers
+**/Debug
+**/.settings
+.DS_Store
+.mxproject
+.osx.project
+.project
+.cproject
+.ioc
+.ld
+.cfg
+.launch
+
